@@ -21,14 +21,20 @@ Screenshot:
 
   3.	Steps to install dependencies
 	  Командите се поставят в терминала.
-    •	npm install 
+
+•	npm install 
 
   How to start:
-    1.  Open your terminal and run:
+
+ 1.  Open your terminal and run:
+    
        -cd to-do-list
-    2. Once the project is ready, you can start the development server:
-       -npm start
-       -If it didn't automatically you can open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+       
+3. Once the project is ready, you can start the development server:
+   
+    -npm start
+   
+   -If it didn't automatically open. You can open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 This will:
