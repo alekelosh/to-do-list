@@ -1,32 +1,38 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 Technologies Used:
+
 React
+
 HTML
+
 CSS
+
 JavaScript
+
+1.	Overview
+	"To-do-list" е уеб приложение за управление на задачи с възможности за филтриране и сортиране на задачите като завършени или несвършени.
+
 Screenshot:
 ![img.png](img.png)
 
-# Todo App
-This is a simple React Todo app that allows users to manage pending and completed tasks.  
-Users can filter, sort, complete, and undo todos.
-- Node.js = 22.15.0
-- npm = 9.0.0 
+2.	Prerequisites
+	  Преди да стартирате проекта, уверете се, че имате инсталирани:
+    - Node.js = 22.15.0
+    - npm = 9.0.0
 
-cd to-do-list
-npm start
+  3.	Steps to install dependencies
+	  Командите се поставят в терминала.
+    •	npm install 
+
+  How to start:
+    1.  Open your terminal and run:
+       -cd to-do-list
+    2. Once the project is ready, you can start the development server:
+       -npm start
+       -If it didn't automatically you can open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+This will:
+- Start the development server on `http://localhost:3000`
+- Open your browser automatically to show the app
+  
+
